@@ -8,6 +8,7 @@ public class ServiceProductApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServiceProductApplication.class, args);
+		system.out.printf("version 1");
 	}
 
 }
